@@ -1,1 +1,2 @@
-console.log('qq')
+import './app'
+import './style.css'
